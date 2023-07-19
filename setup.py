@@ -5,5 +5,5 @@ setup(name='Mastermind',
       description='Python Simulates The Game Mastermind',
       author='Martin Kliment',
       author_email='martin.kliment@gmail.com',
-      packages=['mastermind'],
+      packages=['zapoctovyprogram'],
      )
